@@ -1,6 +1,6 @@
 import logging
 
-from helpers.metaclasses import Singleton
+from .helpers.metaclasses import Singleton
 
 
 class CustomFormatter(logging.Formatter):
