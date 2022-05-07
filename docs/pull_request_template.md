@@ -7,7 +7,7 @@ Please include a summary of why this change was needed and the impact.
 - [ ] New feature
 - [ ] Refactor of existing feature
 - [ ] Bug fix (please make a note if this fix causes any side effects)
-- [ ] Chore (package updates, code clean up, loggign added, etc.)
+- [ ] Chore (package updates, code clean up, logging added, etc.)
 - [ ] Documentation
 
 ## Checklist:
